@@ -1,0 +1,14 @@
+# MAVLink communication
+pymavlink
+pyserial
+
+# GUI (ground station: map, HUD, telemetry display)
+PyQt5
+PyQtWebEngine
+
+# Computer vision / camera (Gazebo + Jetson)
+opencv-python
+numpy
+
+# NOTE: versions intentionally unpinned for now — pin once code is finalized and tested.
+# NOTE: swap PyQt5/PyQtWebEngine for PyQt6 equivalents if that's the actual framework used.
